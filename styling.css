@@ -1,3 +1,16 @@
-.animal{
-background-color: rgb(91, 233, 91);
+
+/* color styling animals */
+
+.cat{
+    background-color: rgb(243, 115, 41);
+}
+.lion{
+    background-color: rgb(245, 245, 94);
+}
+.snake{
+    background-color: rgb(230, 40, 87);
+}
+
+.fish{
+    background-color: aqua;
 }
