@@ -1,4 +1,10 @@
 
+.title{
+    align: center;
+    text-decoration-style: solid;
+    font
+}
+
 /* color styling animals */
 
 .cat{
@@ -15,6 +21,10 @@
     background-color: aqua;
 }
 
+.description{
+    
+
+}
 .row {
-    height: 8cm;
+    
 }
