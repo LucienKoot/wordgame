@@ -1,11 +1,22 @@
 
 .title{
-    align: center;
-    text-decoration-style: solid;
-    font
+    text-align: center;
+    text-decoration: underline overline;
+    text-decoration-color: darkviolet;
+    font-size: 60px;
+    text-shadow: darkorange;
+    background-color: yellow;
+
 }
 
 /* color styling animals */
+.description{
+    background-color: rgb(147, 238, 147);
+}
+.row {
+    
+}
+
 
 .cat{
     background-color: rgb(243, 115, 41);
